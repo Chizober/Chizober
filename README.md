@@ -1,5 +1,4 @@
-![Header](./https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif])
-<h1 align="center">Hi 👋, I'm Egbujie Chizoba Esther</h1>
+<img src="https://github.com/Chizober/Chizober/blob/main/header.png?raw=true">
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img  align ="right" alt="Coding" width="400"height="400"src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 
