@@ -1,9 +1,9 @@
- 
-<img src="https://github.com/Chizober/Chizober/blob/main/header.png?raw=true">
+ ### <div align="center">I'm Egbujie Chizoba Esther, a frontend developer 👨‍💻 </div>  
+
 <h3 align="center">A passionate Software developer from Nigeria</h3>
 
 - 🌱 I’m currently learning EFCore ATM console application  
-  - 📝 I regularly write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
+- 📝 I regularly write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
  - 📫 How to reach me **egbujie.chizoba@gmail.com**
 
