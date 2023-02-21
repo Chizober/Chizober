@@ -1,4 +1,6 @@
- ### <div align="center">I'm Egbujie Chizoba Esther, a frontend developer 👨‍💻 </div>  
+<img src="https://github.com/Chizober/Chizober/blob/main/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg?raw=true" height="250" width="100%" >
+
+<h1 align="center">I'm Egbujie Chizoba Esther, a frontend developer 👨‍💻 </h1>  
 
 <h3 align="center">A passionate Software developer from Nigeria</h3>
 
