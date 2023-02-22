@@ -1,4 +1,4 @@
-# Bienvenue, incroyable 👋🏾
+# Bienvenue 👋🏾
 
 <h3 align="center">My name is Egbujie Chizoba Esther</h3>  
  
