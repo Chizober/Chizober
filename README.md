@@ -1,7 +1,9 @@
 # Bienvenue, incroyable 👋🏾
 
 <h3 align="center">My name is Egbujie Chizoba Esther</h3>  
-I'm a Software Developer and  Content Creator, who currently works at [GenesysTechhub](https://commercelayer.io). I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
+ 
+I'm a Software Developer and Content Creator, who currently works at [GenesysTechhub](https://www.genesystechhub.com/).
+I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
 
 - 😊 Pronouns: She/her 
 
