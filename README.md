@@ -1,6 +1,6 @@
-<h1 align="center">   Welcome   👋🏾 </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
  
-I'm a Software Developer and Content Creator, who currently works at [GenesysTechhub](https://www.genesystechhub.com/).
+Welcome,I'm Egbujie, Chizoba Esther, Software Developer and Content Creator, who currently works at [GenesysTechhub](https://www.genesystechhub.com/).
 I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
 
 - 😊 Pronouns: She/Her 
@@ -12,7 +12,7 @@ I'm passionate  about software development,technical documentation, learning, sh
 - 💙 Fun fact: 
 kind da like looking for trouble in a good way🤣 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
@@ -42,9 +42,9 @@ kind da like looking for trouble in a good way🤣
 </td></tr></table>  
 
 
-## Connect with me 
+### Where to find me
 
-<p align="center">
+<p>
 <a href="https://github.com/Chizober" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom:5px;" />
 </a>
@@ -69,7 +69,7 @@ kind da like looking for trouble in a good way🤣
 <br/>  
 
 
-## Github Stats  
+### Github Stats  
 <!--<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=radical&count_private=true&hide_border=true" align="center" /></div> --> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&count_private=true&hide_border=true" /></div>  
 <br/>  
