@@ -1,17 +1,17 @@
-<img src="https://github.com/Chizober/Chizober/blob/main/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg?raw=true" height="230" width="100%" >
+# Bienvenue, incroyable 👋🏾
 
-<h1 align="center">I'm Egbujie Chizoba Esther</h1>  
+<h3 align="center">My name is Egbujie Chizoba Esther</h3>  
+I'm a Software Developer and  Content Creator, who currently works at [GenesysTechhub](https://commercelayer.io). I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
 
-<h4 align="center">A Software developer from Nigeria 👨‍💻 </h4>
+- 😊 Pronouns: She/her 
 
 - 🌱 I’m currently learning EFCore 
 - 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
- - 📫 How to reach me **egbujie.chizoba@gmail.com**
+- 📫 How to reach me **egbujie.chizoba@gmail.com**
 
-- ⚡ Fun fact:  
-I kind da like looking for trouble in a good way🤣 
-  
+- 💙 Fun fact: 
+kind da like looking for trouble in a good way🤣 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -77,13 +77,6 @@ I kind da like looking for trouble in a good way🤣
 
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chizober&&style=flat-square" align="center" />
 </div>  
@@ -94,4 +87,9 @@ I kind da like looking for trouble in a good way🤣
 <div align="center"></div>
 <br />
 
-----
+---- 
+
+
+
+
+
