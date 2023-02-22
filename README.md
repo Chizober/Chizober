@@ -9,7 +9,8 @@
   
  - 📫 How to reach me **egbujie.chizoba@gmail.com**
 
-- ⚡ Fun fact:  I kind da like looking for trouble in a good way🤣 
+- ⚡ Fun fact:  
+I kind da like looking for trouble in a good way🤣 
   
 
 ## My Skill Set  
