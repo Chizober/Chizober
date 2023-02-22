@@ -7,7 +7,6 @@ I'm passionate  about software development,technical documentation, learning, sh
 
 - 😊 Pronouns: She/her 
 
-- 🌱 I’m currently learning EFCore 
 - 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
 - 📫 How to reach me **egbujie.chizoba@gmail.com**
