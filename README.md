@@ -1,11 +1,11 @@
-# Bienvenue 👋🏾
+ # Bienvenida    👋🏾
 
-<h3 align="center">My name is Egbujie Chizoba Esther</h3>  
+<h2 align="center">My name is Egbujie Chizoba Esther</h2>  
  
 I'm a Software Developer and Content Creator, who currently works at [GenesysTechhub](https://www.genesystechhub.com/).
 I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
 
-- 😊 Pronouns: She/her 
+- 😊 Pronouns: She/Her 
 
 - 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
