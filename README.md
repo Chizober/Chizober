@@ -7,7 +7,7 @@ I'm passionate  about software development,technical documentation, learning, sh
 
 - 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
-- 📫 How to reach me **egbujie.chizoba@gmail.com**
+- 📫 How to reach me, [email](mailto:egbujie.chizoba@gmail.com) :)
 
 - 💙 Fun fact: 
 kind da like looking for trouble in a good way🤣 
@@ -49,7 +49,7 @@ kind da like looking for trouble in a good way🤣
 
 ### Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=gotham" alt="Egbujie Chizoba" />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chizober&&style=flat-square" align="center" />
