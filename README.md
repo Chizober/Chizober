@@ -1,20 +1,19 @@
-<img src="https://github.com/Chizober/Chizober/blob/main/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg?raw=true" height="250" width="100%" >
+<img src="https://github.com/Chizober/Chizober/blob/main/programmers-programming-motivational-code-text-hd-wallpaper-preview.jpg?raw=true" height="230" width="100%" >
 
 <h1 align="center">I'm Egbujie Chizoba Esther</h1>  
 
-<h3 align="center">A passionate Software developer from Nigeria 👨‍💻 </h3>
+<h4 align="center">A Software developer from Nigeria 👨‍💻 </h4>
 
 - 🌱 I’m currently learning EFCore 
-- 📝 I regularly write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
+- 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
  - 📫 How to reach me **egbujie.chizoba@gmail.com**
 
-- ⚡ Fun fact  I kind da like looking for trouble in a good way🤣 
+- ⚡ Fun fact:  I kind da like looking for trouble in a good way🤣 
   
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
 
 
 ### Frontend  
