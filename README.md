@@ -1,11 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1
 
-Welcome,I'm Egbujie, Chizoba Esther, Software Developer and Content Creator, who currently works at [GenesysTechhub](https://www.genesystechhub.com/).
-I'm passionate  about software development,technical documentation, learning, sharing knowledge and  teaching.
+Welcome,I'm Egbujie,Chizoba Esther, Software Developer and aspiring [writer](https://medium.com/@egbujie.chizoba)
+
+I am currently interning at [GenesysTechhub](https://www.genesystechhub.com/).
+
+I'm passionate  about software development,technical documentation, learning, sharing knowledge and teaching.
 
 - 😊 Pronouns: She/Her 
-
-- 📝 I  write articles on [https://medium.com/@egbujie.chizoba](https://medium.com/@egbujie.chizoba)
   
 - 📫 How to reach me, [email](mailto:egbujie.chizoba@gmail.com) :)
 
