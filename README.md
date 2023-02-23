@@ -23,9 +23,9 @@ kind da like looking for trouble in a good way🤣
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/></code>
 
-<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"/></code>  
 <code><img height="20" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)!"/></code>
-<code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)!"/></code>
+<code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)!"/></code> 
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"/></code>  
 <br>
 ### Where to find me
 
