@@ -23,7 +23,7 @@ kind da like looking for trouble in a good way🤣
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#"/></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET"/></code>  
-
+<br>
 ### Where to find me
 
 <p>
@@ -46,9 +46,7 @@ kind da like looking for trouble in a good way🤣
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom:5px;" />
 </a> 
 </P>  
-  
-
-### Github stats
+<br>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" alt="Chizober's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizober&langs_count=8&layout=compact&hide=php&theme=gotham&hide_border=true" alt="Chizober's GitHub stats" /> |
 | ------------- | ------------- |
