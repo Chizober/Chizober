@@ -2,8 +2,7 @@
 
 Welcome,I'm Egbujie,Chizoba Esther, Software Developer and aspiring [writer](https://medium.com/@egbujie.chizoba)
 
-I am currently interning at [GenesysTechhub](https://www.genesystechhub.com/).
-
+I am currently interning at [GenesysTechhub](https://bezao.genesystechhub.com/).
 I'm passionate  about software development,technical documentation, learning, sharing knowledge and teaching.
 
 - 😊 Pronouns: She/Her 
