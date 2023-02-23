@@ -50,20 +50,14 @@ kind da like looking for trouble in a good way🤣
 
 ### Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=gotham" alt="Egbujie Chizoba" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chizober&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" alt="Chizober's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chizober&langs_count=8&layout=compact&hide=php&theme=gotham&hide_border=true" alt="Chizober's GitHub stats" /> |
+| ------------- | ------------- |
+---- 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Chizober&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
----- 
-
 
 
 
